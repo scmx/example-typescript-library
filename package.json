@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/lodash": "^4.14.57",
+    "@types/lodash": "^4.14.61",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "typescript": "^2.2.1"
+    "typescript": "^2.2.2"
   }
 }
